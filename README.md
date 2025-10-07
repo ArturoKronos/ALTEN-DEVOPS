@@ -14,3 +14,23 @@ El origen de DevOps se remonta a 2007, cuando Patrick Debois, al trabajar para e
 En 2009, tras la charla **“10 deploys per day”** de John Allspaw y Paul Hammond, Debois impulsó el término **DevOps** (*Development + Operations*), buscando integrar ambos equipos. Desde entonces, el enfoque DevOps se ha extendido globalmente, mejorando la eficiencia y comunicación en el desarrollo tecnológico.
 
 ***
+
+## Guía completa: 
+
+- [Entorno](1.md)
+
+- [Git](2.md)
+
+- [Docker](3.md)
+
+- [Jenkins](4.md)
+
+- [Kubernetes](5.md)
+
+- [SonarQube](6.md)
+
+- [Ansible](7.md)
+
+- [Practica final](7.md)
+
+***
