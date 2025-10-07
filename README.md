@@ -3,7 +3,8 @@
 # Devops-Training
 
 <p align="center">
-  <img src="img/" alt="img" width="400px">
+  <img src="img/52eeb9f0-1e6d-42af-96ba-6f6892131367.webp
+" alt="img" width="400px">
 </p>
 
 ***
