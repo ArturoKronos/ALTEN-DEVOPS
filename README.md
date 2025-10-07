@@ -7,7 +7,7 @@
 </p>
 
 ***
-## ¿Qué vamos a ver?
+## ¿Devops? ¿De que proviene?
 
 El origen de DevOps se remonta a 2007, cuando Patrick Debois, al trabajar para el gobierno belga, notó los conflictos entre los equipos de desarrollo y operaciones. En 2008 conoció a Andrew Clay Shafer y juntos crearon el grupo **Agile System Administrators** para promover la colaboración entre ambos.
 
